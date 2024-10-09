@@ -1,1 +1,1 @@
-ML Project
+This Machine Learning Model Predicts the traffic situation at a particular junction in particular time by analyzing the previous data of that junction.And classify the traffic situation as high,heavy,normal and low.
